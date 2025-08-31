@@ -15,6 +15,7 @@
 
 ## 🛠️ Tech Stack
 **Languages & Frameworks:**  
+<img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
 `Dart` · `Flutter` · `TypeScript` · `React`  
 
 **Backend & Database:**  
