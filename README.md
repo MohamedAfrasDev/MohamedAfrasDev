@@ -23,6 +23,9 @@
 **Backedn & Database:**  
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/supabase.png" alt="supabase"/> <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/> <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/> <img width="50" height="50" src="https://img.icons8.com/ios/50/sqlite.png" alt="sqlite"/>
 
+**AI & ML:**
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/chatgpt--v2.png" alt="chatgpt--v2"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure-1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/opencv.png" alt="opencv"/> <img width="48" height="48" src="https://img.icons8.com/color/48/brain-3.png" alt="brain-3"/>
+
 ---
 
 ## 📌 Featured Projects
