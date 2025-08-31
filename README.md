@@ -30,32 +30,25 @@
 ---
 
 ## 📌 Featured Projects
-- 📘 [**Study Planner App**](https://github.com/your-username/study-planner)  
-  A productivity + AI powered study planner built with Flutter & Supabase.  
 
-- 🤖 [**AI Resume ATS Analyzer**](https://github.com/your-username/AI-Resume-Analyzer)  
+- 🤖 [**AI Resume ATS Analyzer**](https://github.com/MohamedAfrasDev/AI-Resume-Analyzer)  
   React + TypeScript tool that analyzes resumes against job descriptions.  
 
-- 🛒 [**E-commerce SaaS (Admin + Storefront)**](https://github.com/your-username/ecommerce-saas)  
+- 🛒 [**E-commerce SaaS (Admin + Storefront)**](https://github.com/MohamedAfrasDev/flutter-ecommerce-app)  
   Multi-tenant e-commerce system built with Flutter & Supabase.  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="150" />
-</p>
+
 
 ---
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohamedafras2008/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mohamedafrasai@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-⭐️ From [your-username](https://github.com/your-username)
+⭐️ From Mohamed Afras(https://github.com/MohamedAfrasDev/)
