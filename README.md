@@ -20,8 +20,8 @@
 **Frontend:**  
 <img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/> <img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
 
-**Tools & Platforms:**  
-`GitHub` · `Azure` · `VS Code` · `Figma`  
+**Backedn & Database:**  
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/supabase.png" alt="supabase"/> <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/> <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/> <img width="50" height="50" src="https://img.icons8.com/ios/50/sqlite.png" alt="sqlite"/>
 
 ---
 
