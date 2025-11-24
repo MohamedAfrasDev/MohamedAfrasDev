@@ -44,12 +44,12 @@
 
 ### 📌 Featured Projects
 
-| 🤖 **AI Resume ATS Analyzer** | 🛒 **E-commerce SaaS** | | ⚡ **Full Stack N8N - Automation** |
-| :---: | :---: |
-| A React + TypeScript tool that analyzes<br>resumes against job descriptions. | Multi-tenant e-commerce system built<br>with Flutter & Supabase. | Automation Workflow where User can trigger and execute nodes including custom API |
+| 🤖 **AI Resume ATS Analyzer** | 🛒 **E-commerce SaaS** | ⚡ **Full Stack N8N Automation** |
+| :---: | :---: | :---: |
+| A React + TypeScript tool that analyzes<br>resumes against job descriptions. | Multi-tenant e-commerce system built<br>with Flutter & Supabase. | Automation workflow engine allowing<br>users to trigger custom API nodes. |
 | [View Project](https://github.com/MohamedAfrasDev/AI-Resume-Analyzer) | [View Project](https://github.com/MohamedAfrasDev/flutter-ecommerce-app) | [View Project](https://github.com/MohamedAfrasDev/connectflow-2) |
 
----
+
 
 ### 🌐 Connect With Me
 
