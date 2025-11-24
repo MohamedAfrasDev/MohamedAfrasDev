@@ -1,54 +1,63 @@
-# Hi there, I'm Mohamed Afras 👋
+<div align="center">
 
-💻 **Full-stack Flutter Developer | AI Enthusiast | Tech Explorer**  
-🚀 Building apps that solve real-world problems & showcase my journey in tech.  
+# Hi, I'm Mohamed Afras 👋
 
----
+### Full-stack Flutter Developer | AI Enthusiast | Tech Explorer
 
-## 🚀 About Me
-- 🔭 Currently working on: **Study Planner & Learning Tracker App** 📘  
-- 🌱 Learning more about: **AI/LLMs, Supabase, Cloud Hosting**  
-- 👯 Looking to collaborate on: **Open-source Flutter & AI projects**  
-- 💡 Fun fact: I love combining **AI + Flutter** to create smarter apps  
+*Building apps that solve real-world problems & showcasing my journey in tech.*
 
 ---
 
-## 🛠️ Tech Stack
-**Lagnuages:**  
-<img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+### 🚀 Current Focus
 
-**Frontend:**  
-<img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/> <img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
-
-**Backedn & Database:**  
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/supabase.png" alt="supabase"/> <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/> <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/> <img width="50" height="50" src="https://img.icons8.com/ios/50/sqlite.png" alt="sqlite"/>
-
-**AI & ML:**
-
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/chatgpt--v2.png" alt="chatgpt--v2"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure-1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/opencv.png" alt="opencv"/> <img width="48" height="48" src="https://img.icons8.com/color/48/brain-3.png" alt="brain-3"/>
+🔭 Working on a **Study Planner & Learning Tracker App** 🌱 Learning **AI/LLMs, Supabase, & Cloud Hosting** 💡 Combining **AI + Flutter** to create smarter apps  
 
 ---
 
-## 📌 Featured Projects
+### 🛠️ Tech Stack
 
-- 🤖 [**AI Resume ATS Analyzer**](https://github.com/MohamedAfrasDev/AI-Resume-Analyzer)  
-  React + TypeScript tool that analyzes resumes against job descriptions.  
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-- 🛒 [**E-commerce SaaS (Admin + Storefront)**](https://github.com/MohamedAfrasDev/flutter-ecommerce-app)  
-  Multi-tenant e-commerce system built with Flutter & Supabase.  
+<br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<br>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+<br>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
 ---
 
+### 📌 Featured Projects
 
-
----
-
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamedafras2008/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mohamedafrasai@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
-</p>
+| 🤖 **AI Resume ATS Analyzer** | 🛒 **E-commerce SaaS** |
+| :---: | :---: |
+| A React + TypeScript tool that analyzes<br>resumes against job descriptions. | Multi-tenant e-commerce system built<br>with Flutter & Supabase. |
+| [View Project](https://github.com/MohamedAfrasDev/AI-Resume-Analyzer) | [View Project](https://github.com/MohamedAfrasDev/flutter-ecommerce-app) |
 
 ---
 
-⭐️ From Mohamed Afras(https://github.com/MohamedAfrasDev/)
+### 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/mohamedafras2008/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mohamedafrasai@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
