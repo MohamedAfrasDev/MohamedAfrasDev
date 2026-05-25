@@ -16,9 +16,9 @@
 
 ## About
 
-I'm a full-stack developer focused on shipping well-crafted software — from robust backend systems to polished, animated UIs. I work across the entire stack, with a particular interest in AI-powered platforms, agentic pipelines, and production-grade auth infrastructure.
+I specialize in system architecture and scalable web engineering. From backend services to frontend performance, I approach development with structure, clarity, and long-term thinking.
 
-Currently building **Theorem AI** (an AI research platform) and **Edvios** (an enterprise admin panel), while exploring agent orchestration and real-time collaboration systems.
+Over the years, I’ve led architectural initiatives, optimized high-traffic applications, and contributed to technical decision-making that supports product growth. I believe strong engineering is defined not just by delivery, but by durability.
 
 ---
 
